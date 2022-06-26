@@ -1,3 +1,4 @@
 *.csv
+*.pkl
 .DS_Store
 .venv
